@@ -10,7 +10,7 @@
 
 
 <h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a>
+  <img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a><br>
   <a href="https://github.com/XPPDE">
     <img src="https://camo.githubusercontent.com/fddc795161c69ee15346fdb6b004007cfda8a8e5c2dd03e9184949753f607061/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f526579526f6d3f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/followers/XPPED?label=Follow&amp;style=social" style="max-width: 100%;">
   </a></h1>
