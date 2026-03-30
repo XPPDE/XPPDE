@@ -6,6 +6,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XPPDE&theme=dark"/><br>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </p>
 </h1>
