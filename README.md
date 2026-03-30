@@ -7,5 +7,4 @@
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XPPDE&theme=dark"/><br>
 </h1>
 
-    
-</h1><h1 align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></h1>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></h1>
