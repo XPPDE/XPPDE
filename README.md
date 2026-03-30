@@ -7,10 +7,5 @@
 </h1>
 
 
-
-<div align="center">
-  ![snake gif](https://github.com/XPPDE/XPPDE/blob/output/github-snake-dark.svg)
-</div>
-
 <h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></h1>
