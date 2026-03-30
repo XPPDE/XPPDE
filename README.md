@@ -4,7 +4,7 @@
 <h1 align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=XPPDE&theme=dark&hide_border=true&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=800&card_height=200" alt="Typing SVG" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XPPDE&theme=dark" alt="Typing SVG" />
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XPPDE&theme=dark](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude})" alt="Typing SVG" />
+  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XPPDE&theme=dark](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={XPPDE}&theme={theme_name}&exclude={exclude})" alt="Typing SVG" />
 </h1>
 <h1 align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a>
 </h1>
