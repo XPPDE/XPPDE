@@ -9,5 +9,3 @@
 </h1>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></p>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=XPPDE)](https://github.com/KnlnKS/leetcode-stats)
