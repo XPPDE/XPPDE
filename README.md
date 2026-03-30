@@ -4,7 +4,14 @@
 <h1 align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=XPPDE&theme=dark&hide_border=true&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=800&card_height=200"/></a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XPPDE&theme=dark"/>
+</h1>
 
+<h1>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </h1>
 
 <h1 align="center">
