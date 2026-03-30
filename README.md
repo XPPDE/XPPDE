@@ -4,10 +4,10 @@
 <h1 align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=XPPDE&theme=dark&hide_border=true&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=800&card_height=200"/></a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XPPDE&theme=dark"/><br>
-  <a href="https://leetcode-stats-six.vercel.app/api?username=XeroX001psPDE&theme=dark"><img src="https://github.com/KnlnKS/leetcode-stats" alt="Typing SVG" /></a>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <img src="https://readme-jokes.vercel.app/api?theme=halloween" alt="Jokes Card" />
 </h1>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></p>
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
