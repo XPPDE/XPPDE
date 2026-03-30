@@ -4,6 +4,6 @@
 <h1 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=XPPDE&theme=dark&hide_border=true&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=800&card_height=200" alt="Typing SVG" /></a>
 </h1>
 
-<h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark" alt="Typing SVG" /></a></h1>
+<h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XPPDE&theme=dark" alt="Typing SVG" /></a></h1>
 <h1 align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a>
 </h1>
