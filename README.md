@@ -6,12 +6,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XPPDE&theme=dark"/>
 </h1>
 
-<h1>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-</h1>
+
+
+<div align="center">
+  ![snake gif](https://github.com/XPPDE/XPPDE/blob/output/github-snake-dark.svg)
+</div>
 
 <h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></h1>
