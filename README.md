@@ -6,8 +6,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XPPDE&theme=dark"/><br>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <img src="https://readme-jokes.vercel.app/api?theme=halloween" alt="Jokes Card" />
-  
-</p>
 </h1>
 
 <img align="center" src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a>
