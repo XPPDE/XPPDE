@@ -4,7 +4,7 @@
 <h1 align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com? user=XPPDE&theme=dark&hide_border=true&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=800&card_height=200"/></a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XPPDE&theme=dark"/>
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XPPDE&theme=dark"/>
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XPPDE&theme=dark"/><br>
 </h1>
 
     
