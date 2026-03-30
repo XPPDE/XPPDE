@@ -8,4 +8,5 @@
   <img src="https://readme-jokes.vercel.app/api?theme=halloween" alt="Jokes Card" />
 </h1>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></p>
+
