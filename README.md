@@ -10,7 +10,4 @@
 </p>
 </h1>
 
-
-<h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a>
-</h1>
+<img align="center" src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a>
