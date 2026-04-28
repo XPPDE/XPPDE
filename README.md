@@ -7,8 +7,10 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <img src="https://readme-jokes.vercel.app/api?theme=halloween" alt="Jokes Card" />
 </h1>
-
+<h1>
 <p align="center"><img src="https://leetcard.jacoblin.cool/XPPDE?theme=dark&font=Carrois%20Gothic%20SC&ext=heatmap" alt="Typing SVG" /></a></p>
+</h1>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></p>
 
 <picture>
