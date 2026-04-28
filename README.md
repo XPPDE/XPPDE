@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></p>
 
-<p align="center">![LeetCode Stats](https://leetcard.jacoblin.cool/XPPDE?theme=dark&font=Carrois%20Gothic%20SC&ext=heatmap)</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/XPPDE?theme=dark&font=Carrois%20Gothic%20SC&ext=heatmap)
 
 
 <picture>
