@@ -9,9 +9,7 @@
 </h1>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></p>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/XPPDE?theme=dark&font=Carrois%20Gothic%20SC&ext=heatmap)
-
+<p align="center"><img src="https://leetcard.jacoblin.cool/XPPDE?theme=dark&font=Carrois%20Gothic%20SC&ext=heatmap" alt="Typing SVG" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
