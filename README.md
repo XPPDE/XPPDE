@@ -18,3 +18,6 @@
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+
+<p align="center"><img src="IMG_20260319_134151_339.jpg" alt="Typing SVG" /></a></p>
