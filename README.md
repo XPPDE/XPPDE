@@ -20,4 +20,4 @@
 </picture>
 
 
-<p align="center"><img src="IMG_20260319_134151_339.jpg" alt="Typing SVG" /></a></p>
+<p align="center"><img src="images (2).jpeg" alt="Typing SVG" /></a></p>
