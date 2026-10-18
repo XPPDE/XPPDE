@@ -13,11 +13,11 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></p>
 
+<iframe frameborder="0" src="https://itch.io/embed/5139718?bg_color=000000&amp;fg_color=9d0404&amp;link_color=de4e00&amp;border_color=410074" width="552" height="167"><a href="https://xppde.itch.io/folium">FOLIUM by XPPDE</a></iframe>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-
-<p align="center"><img src="images (2).jpeg" alt="Typing SVG" /></a></p>
