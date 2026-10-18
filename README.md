@@ -6,9 +6,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XPPDE&theme=dark"/><br>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <img src="https://readme-jokes.vercel.app/api?theme=halloween" alt="Jokes Card" />
-  <a href="https://ВАШ_НИК.itch.io/ССЫЛКА_НА_ИГРУ" target="_blank">
+  
+  <a href="https://xppde.itch.io/folium" target="_blank">
   <img width="558" height="174" alt="FOLIUM" src="https://github.com/user-attachments/assets/23d635ec-7153-416b-ac9f-8268abeb356d" />
 </a>
+
 </h1>
 <h1>
 <p align="center"><img src="https://leetcard.jacoblin.cool/XPPDE?theme=dark&font=Carrois%20Gothic%20SC&ext=heatmap" alt="Typing SVG" /></a></p>
