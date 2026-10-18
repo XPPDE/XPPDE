@@ -13,9 +13,10 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=XPPDE" alt="Typing SVG" /></a></p>
 
-[![itch.io Game](https://vercel.app)](https://xppde.itch.io/folium)
+<a href="https://ВАШ_НИК.itch.io/ССЫЛКА_НА_ИГРУ" target="_blank">
+  <img width="558" height="174" alt="FOLIUM" src="https://github.com/user-attachments/assets/23d635ec-7153-416b-ac9f-8268abeb356d" />
+</a>
 
-<iframe frameborder="0" src="https://itch.io/embed/5139718?bg_color=000000&amp;fg_color=9d0404&amp;link_color=de4e00&amp;border_color=410074" width="552" height="167"><a href="">FOLIUM by XPPDE</a></iframe>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
